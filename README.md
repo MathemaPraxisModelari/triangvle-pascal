@@ -1,1 +1,1 @@
-# triangvle-pascal
+# Triangvle Pascal
